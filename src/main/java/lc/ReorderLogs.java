@@ -29,6 +29,7 @@ public class ReorderLogs {
             String[] seperatedLetterLog = letterlogs.get(i);
             logs[i] = seperatedLetterLog[0].concat(" ").concat(seperatedLetterLog[1]);
         }
+
         for(int j = 0; j < digitlogs.size(); j++){
             String[] seperatedDigitLog = digitlogs.get(j);
             logs[i] = seperatedDigitLog[0].concat(" ").concat(seperatedDigitLog[1]);
