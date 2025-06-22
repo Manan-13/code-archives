@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Manan-13/code-archives/tree/master/0516-longest-palindromic-subsequence) |
+| [0686-repeated-string-match](https://github.com/Manan-13/code-archives/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Manan-13/code-archives/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Dynamic Programming
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Manan-13/code-archives/tree/master/0300-longest-increasing-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Manan-13/code-archives/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
