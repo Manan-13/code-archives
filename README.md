@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Manan-13/code-archives/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manan-13/code-archives/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Manan-13/code-archives/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Manan-13/code-archives/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -32,9 +33,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Manan-13/code-archives/tree/master/0402-remove-k-digits) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manan-13/code-archives/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manan-13/code-archives/tree/master/0871-minimum-number-of-refueling-stops) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Manan-13/code-archives/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Manan-13/code-archives/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
